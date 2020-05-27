@@ -1,0 +1,22 @@
+{
+  "name": "@keystone-labs/retext-capitalize",
+  "version": "1.0.0",
+  "description": "detects string that start with lower case\t",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "retext"
+  ],
+  "author": "Diego Parra",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.15",
+    "nlcst-to-string": "^2.0.4",
+    "retext": "^7.0.1",
+    "unist-util-visit": "^2.0.2",
+    "vfile-reporter": "^6.0.1"
+  }
+}
