@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "fs": "0.0.1-security",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "nlcst-to-string": "^2.0.4",
     "retext": "^7.0.1",
     "unist-util-visit": "^2.0.2",
